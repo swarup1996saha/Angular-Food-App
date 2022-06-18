@@ -1,12 +1,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/Swarup_Saha-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swarup-saha-b186b316a/)
 
 
-
-# Angular Food App
 ![HomePage](https://github.com/swarup1996saha/Angular-Food-App/blob/master/src/assets/foodmine.gif)
 <br> 
 
+# Angular Food App
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+
+## IMPORTANT STEP
+
+Run `npm install` to install all node dependencies defined in package.json. Only after all necessary node dependencies are installed & configured you can start using the app.
 
 ## Development server
 
