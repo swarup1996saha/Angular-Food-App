@@ -16,10 +16,13 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/swarup1996saha/Angular-Food-App">
 </p>
 
+## 👨🏻‍💻 About the project
+
 ![HomePage](https://github.com/swarup1996saha/Angular-Food-App/blob/master/src/assets/foodmine.gif)
 <br> 
 
-# Angular Food App
+<p>This application consists of a simple Food Add to Cart App created from my studies regarding Angular 13, so with it it is possible to cart items coming from a fake API.</p>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
 ## IMPORTANT STEP
@@ -49,5 +52,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## 📝  License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/swarup1996saha/Angular-Food-App/blob/master/LICENSE) for more information.
+
+---
+Made with ♥ by Swarup Saha :wave:
 
 [![Linkedin Badge](https://img.shields.io/badge/Swarup_Saha-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swarup-saha-b186b316a/)
